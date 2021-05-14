@@ -8,6 +8,7 @@
 @import url(./text-rect.css);
 @import url(./text-circle.css);
 @import url(./abs-layout.css);
+@import url(./table.css);
 
 body {
     font-family: 'Droid Serif';
