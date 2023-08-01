@@ -37,17 +37,9 @@ a, a > code {
     text-decoration: none;
 }
 code {
-    background: #e7e8e2;
     border-radius: 5px;
 }
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-#slideshow .slide .content code {
-    font-size: 0.8em;
-}
-#slideshow .slide .content pre code {
-    font-size: 0.9em;
-    padding: 15px;
-}
 .inverse {
     background: #272822;
     color: #777872;
