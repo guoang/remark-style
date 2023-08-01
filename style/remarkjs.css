@@ -41,17 +41,6 @@ code {
     border-radius: 5px;
 }
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-.pull-left {
-    float: left;
-    width: 47%;
-}
-.pull-right {
-    float: right;
-    width: 47%;
-}
-.pull-right ~ p {
-    clear: both;
-}
 #slideshow .slide .content code {
     font-size: 0.8em;
 }
@@ -71,21 +60,6 @@ code {
 .loose-list li { margin: 10px 0px; }
 .loose-list li li { margin: 5px 0px; }
 .loose-list li li li { margin: 0px 0px; }
-/* Two-column layout */
-.left-column {
-    color: #777;
-    width: 20%;
-    height: 92%;
-    float: left;
-}
-.left-column h2:last-of-type, .left-column h3:last-child {
-    color: #000;
-}
-.right-column {
-    width: 75%;
-    float: right;
-    padding-top: 1em;
-}
 blockquote {
   border-left: 0.3em solid rgba(0,0,0,0.5);
   padding: 0 15px;
