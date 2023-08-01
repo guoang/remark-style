@@ -40,6 +40,7 @@ code {
     border-radius: 5px;
 }
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+.remark-inline-code { background: #eee; }
 .inverse {
     background: #272822;
     color: #777872;
